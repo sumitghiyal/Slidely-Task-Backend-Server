@@ -1,0 +1,42 @@
+[
+  {
+    "index": 0,
+    "name": "sumit",
+    "email": "sumit@gmail.com",
+    "phone": "7418529637",
+    "githubLink": "a.com",
+    "stopwatchTime": "00:00:15"
+  },
+  {
+    "index": 1,
+    "name": "sumit",
+    "email": "sumit@gmail.com",
+    "phone": "7418529637",
+    "githubLink": "sumit.com",
+    "stopwatchTime": "00:00:03"
+  },
+  {
+    "index": 2,
+    "name": "Slide Ai",
+    "email": "slideai@gmail.com",
+    "phone": "9637418527",
+    "githubLink": "github.com/repo/slideai",
+    "stopwatchTime": "00:00:18"
+  },
+  {
+    "index": 3,
+    "name": "Gorakh Sharma",
+    "email": "gorakhsh7@gmail.com",
+    "phone": "7011973865",
+    "githubLink": "github.com/gorakhsharma",
+    "stopwatchTime": "00:00:04"
+  },
+  {
+    "index": 4,
+    "name": "Amit Kumar",
+    "email": "akghiyal@gmail.com",
+    "phone": "7418529637",
+    "githubLink": "github.com/amitkumar",
+    "stopwatchTime": "00:00:07"
+  }
+]
